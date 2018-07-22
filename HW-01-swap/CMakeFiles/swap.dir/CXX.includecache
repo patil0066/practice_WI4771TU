@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vpatil/VDB/Delft/practice_WI4771TU/HW-01-swap/src/swap.cxx
+stdafx.h
+/home/vpatil/VDB/Delft/practice_WI4771TU/HW-01-swap/src/stdafx.h
+iostream
+-
+cstdio
+-
+
